@@ -4,5 +4,5 @@
 
 ## Installation
 
-npm install attoyajs
+
 
